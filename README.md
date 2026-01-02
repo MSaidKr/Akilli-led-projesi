@@ -14,7 +14,7 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
 <table>
   <tr>
     <th width="50%">🔌 Fiziksel Devre Kurulumu</th>
-    <th width="50%">📱 Mobil Kontrol Terminali</th>
+    <th width="60%">📱 Mobil Kontrol Terminali</th>
   </tr>
   <tr>
     <td valign="top"> <img src="Gorseller/Sistem_devresi.jpeg" width="100%" alt="Devre Kurulumu">
