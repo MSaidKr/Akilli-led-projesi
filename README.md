@@ -29,7 +29,7 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
     
   <td valign="top">
       <div align="center">
-        <img src="Gorseller/Bluetooth_terminal.jpeg" width="80%" alt="Bluetooth Ekranı">
+        <img src="Gorseller/Bluetooth_terminal.jpeg" width="70%" alt="Bluetooth Ekranı">
       </div>
       <br>
       <p>
