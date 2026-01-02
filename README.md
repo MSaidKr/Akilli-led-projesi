@@ -14,7 +14,7 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
 <table>
   <tr>
     <th width="50%">🔌 Fiziksel Devre Kurulumu</th>
-    <th width="60%">📱 Mobil Kontrol Terminali</th>
+    <th width="50%">📱 Mobil Kontrol Terminali</th>
   </tr>
   <tr>
     <td valign="top"> <img src="Gorseller/Sistem_devresi.jpeg" width="100%" alt="Devre Kurulumu">
@@ -29,7 +29,7 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
     
   <td valign="top">
       <div align="center">
-        <img src="Gorseller/Bluetooth_terminal.jpeg" width="60%" alt="Bluetooth Ekranı">
+        <img src="Gorseller/Bluetooth_terminal.jpeg" width="80%" alt="Bluetooth Ekranı">
       </div>
       <br>
       <p>
