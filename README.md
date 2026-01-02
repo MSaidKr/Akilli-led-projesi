@@ -5,8 +5,8 @@ Bu proje, ev otomasyonu kapsamında geliştirilmiş bir akıllı aydınlatma sis
 Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fiziksel model üzerinde test edilmiştir.
 
 <p align="center">
-  <img src="gorseller/pembe_mod_ana.jpeg" width="45%" alt="Rahatlama Modu (Magenta)">
-  &nbsp; &nbsp; <img src="gorseller/turkuaz_mod.jpeg" width="45%" alt="Okuma Modu (Cyan)">
+  <img src="Gorseller/pembe_mod_ana.jpeg" width="45%" alt="Rahatlama Modu (Magenta)">
+  &nbsp; &nbsp; <img src="Gorseller/turkuaz_mod.jpeg" width="45%" alt="Okuma Modu (Cyan)">
 </p>
 
 *Solda: Rahatlama Modu (Magenta), Sağda: Odaklanma/Okuma Modu (Cyan)*
