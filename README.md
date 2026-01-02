@@ -15,10 +15,24 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
 
 Aşağıda sistemin fiziksel kurulumu ve mobil kontrol arayüzü görülmektedir.
 
-<p align="center">
-  <img src="Gorseller/Sistem_devresi.jpeg" width="45%" alt="Fiziksel Devre Kurulumu">
-  &nbsp; &nbsp;
-  <img src="Gorseller/Bluetooth_terminal.jpeg" width="45%" alt="Bluetooth Kontrol Ekranı">
+<h3>🏠 Fiziksel Kurulum Detayları</h3>
+
+<img src="gorseller/Sistem_devresi.jpeg" align="left" width="300" style="margin-right: 20px;">
+
+<p>
+  İçerisindeki akım ölçer ile birlikte güç tüketimi hesaplayıp ldr sensör ile ışık seviyesini ölçerek enerji tasarrufu yapmayı planlayan proje. 
 </p>
 
-*Solda: Devre ve donanım kurulumu. Sağda: Komutların gönderildiği Bluetooth terminal ekranı.*
+<h4>🏠 Fiziksel Kurulum Detayları</h4>
+
+<img src="gorseller/Bluetooth_terminal.jpeg" align="left" width="300" style="margin-right: 20px;">
+
+<p>
+  Esp32 ile birlikte bluetooth terminal üzerinden kontrol edilebilen sistem 14 farklı moda sahiptir.
+</p>
+<p>
+  Sistem bağlantıları yapılırken lehimleme teknikleri kullanılmış ve kablo karmaşası 
+  kutu arkasına gizlenmiştir.
+</p>
+
+<br clear="left"> ```
