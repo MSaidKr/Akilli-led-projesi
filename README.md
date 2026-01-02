@@ -17,18 +17,26 @@ Aşağıda sistemin fiziksel kurulumu ve mobil kontrol arayüzü görülmektedir
 
 <h3>🏠 Fiziksel Kurulum Detayları</h3>
 
-<img src="gorseller/Sistem_devresi.jpeg" align="left" width="300" style="margin-right: 20px;">
+<img src="Gorseller/Sistem_devresi.jpeg" align="left" width="300" style="margin-right: 20px;">
 
 <p>
-  İçerisindeki akım ölçer ile birlikte güç tüketimi hesaplayıp ldr sensör ile ışık seviyesini ölçerek enerji tasarrufu yapmayı planlayan proje. 
+   İçerisindeki akım ölçer ile birlikte güç tüketimi 
+  hesaplayıp ldr sensör ile ışık seviyesini ölçerek 
+  enerji tasarrufu yapmayı planlayan proje. Veriler 
+  Thingspeak'e aktarılıp istendiği zaman uzaktan 
+  kontrol edilebilmektedir.
 </p>
 
 <h4>🏠 Fiziksel Kurulum Detayları</h4>
 
-<img src="gorseller/Bluetooth_terminal.jpeg" align="left" width="300" style="margin-right: 20px;">
+<img src="Gorseller/Bluetooth_terminal.jpeg" align="left" width="300" style="margin-right: 20px;">
 
 <p>
-  Esp32 ile birlikte bluetooth terminal üzerinden kontrol edilebilen sistem 14 farklı moda sahiptir.
+   Esp32 ile birlikte bluetooth terminal üzerinden 
+  kontrol edilebilen sistem 13 farklı moda sahiptir.
+  Bunlar; otomatik mod, kırmızı, yeşil, mavi, mor, 
+  cyan, turuncu, sarı, pembe, kahverengi, gün ışığı,
+  beyaz ve kapat modlarıdır. 
 </p>
 <p>
   Sistem bağlantıları yapılırken lehimleme teknikleri kullanılmış ve kablo karmaşası 
