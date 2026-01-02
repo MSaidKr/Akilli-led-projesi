@@ -16,9 +16,9 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
 Aşağıda sistemin fiziksel kurulumu ve mobil kontrol arayüzü görülmektedir.
 
 <p align="center">
-  <img src="Gorseller/sistem_devresi.jpeg" width="45%" alt="Fiziksel Devre Kurulumu">
+  <img src="Gorseller/Sistem_devresi.jpeg" width="45%" alt="Fiziksel Devre Kurulumu">
   &nbsp; &nbsp;
-  <img src="Gorseller/bluetooth_terminal.jpeg" width="45%" alt="Bluetooth Kontrol Ekranı">
+  <img src="Gorseller/Bluetooth_terminal.jpeg" width="45%" alt="Bluetooth Kontrol Ekranı">
 </p>
 
 *Solda: Devre ve donanım kurulumu. Sağda: Komutların gönderildiği Bluetooth terminal ekranı.*
