@@ -11,36 +11,33 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
 
 *Solda: Rahatlama Modu, Sağda: Odaklanma/Okuma Modu*
 
-## 📱 Sistem ve Kontrol Arayüzü
-
-Aşağıda sistemin fiziksel kurulumu ve mobil kontrol arayüzü görülmektedir.
-
-<h3>🏠 Fiziksel Kurulum Detayları</h3>
-
-<img src="Gorseller/Sistem_devresi.jpeg" align="left" width="300" style="margin-right: 20px;">
-
-<p>
-   İçerisindeki akım ölçer ile birlikte güç tüketimi 
-  hesaplayıp ldr sensör ile ışık seviyesini ölçerek 
-  enerji tasarrufu yapmayı planlayan proje. Veriler 
-  Thingspeak'e aktarılıp istendiği zaman uzaktan 
-  kontrol edilebilmektedir.
-</p>
-
-<h4>🏠 Fiziksel Kurulum Detayları</h4>
-
-<img src="Gorseller/Bluetooth_terminal.jpeg" align="left" width="300" style="margin-right: 20px;">
-
-<p>
-   Esp32 ile birlikte bluetooth terminal üzerinden 
-  kontrol edilebilen sistem 13 farklı moda sahiptir.
-  Bunlar; otomatik mod, kırmızı, yeşil, mavi, mor, 
-  cyan, turuncu, sarı, pembe, kahverengi, gün ışığı,
-  beyaz ve kapat modlarıdır. 
-</p>
-<p>
-  Sistem bağlantıları yapılırken lehimleme teknikleri kullanılmış ve kablo karmaşası 
-  kutu arkasına gizlenmiştir.
-</p>
-
-<br clear="left"> ```
+<table>
+  <tr>
+    <th width="50%">🔌 Fiziksel Devre Kurulumu</th>
+    <th width="50%">📱 Mobil Kontrol Terminali</th>
+  </tr>
+  <tr>
+    <td valign="top"> <img src="Gorseller/Sistem_devresi.jpeg" width="100%" alt="Devre Kurulumu">
+      <br><br>
+      <p>
+        İçerisindeki akım ölçer ile birlikte güç tüketimi hesaplayıp LDR sensör ile ışık seviyesini ölçerek enerji tasarrufu yapmayı planlayan proje. 
+      </p>
+      <p>
+        Veriler <b>ThingSpeak</b>'e aktarılıp istendiği zaman uzaktan kontrol edilebilmektedir. Bağlantılar yapılırken lehimleme teknikleri kullanılmış ve kablo karmaşası kutu arkasına gizlenmiştir.
+      </p>
+    </td>
+    
+  <td valign="top">
+      <div align="center">
+        <img src="Gorseller/Bluetooth_terminal.jpeg" width="60%" alt="Bluetooth Ekranı">
+      </div>
+      <br>
+      <p>
+        ESP32 ile birlikte Bluetooth terminal üzerinden kontrol edilebilen sistem <b>13 farklı moda</b> sahiptir.
+      </p>
+      <p>
+        Modlar: Otomatik mod, Kırmızı, Yeşil, Mavi, Mor, Cyan, Turuncu, Sarı, Pembe, Kahverengi, Gün ışığı, Beyaz ve Kapat.
+      </p>
+    </td>
+  </tr>
+</table>
