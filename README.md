@@ -41,3 +41,10 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
     </td>
   </tr>
 </table>
+<br> <div align="center">
+  <h3>📊 Canlı Veri Takibi</h3>
+  <a href="https://thingspeak.mathworks.com/channels/3187553">
+    <img src="https://img.shields.io/badge/Dashboard'a_Git-ThingSpeak-F57421?style=for-the-badge&logo=thingspeak&logoColor=white" alt="ThingSpeak Linki">
+  </a>
+  <p><i>Veriler sistem açıkken 15 saniyede bir güncellenir.</i></p>
+</div>
