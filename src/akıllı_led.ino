@@ -7,7 +7,7 @@
 // ================= AYARLAR (BURAYI DOLDUR) =================
 const char* ssid = "-isim-";   
 const char* password = "-sifre-"; 
-unsigned long myChannelNumber = ---;            // ThingSpeak Channel ID (Sayı olarak)
+unsigned long myChannelNumber = ---; // ThingSpeak Channel ID (Sayı olarak)
 const char * myWriteAPIKey = "---"; // ThingSpeak Write API Key
 
 // ================= PIN TANIMLAMALARI =================
@@ -48,8 +48,9 @@ void setup() {
   // 3. INA219 Başlat (Donma Korumalı)
   if (!ina219.begin()) {
     Serial.println("UYARI: INA219 Sensoru Bulunamadi! (Devam ediliyor...)");
-    // while(1) sildik, kod burada donmayacak.
-  } else {
+  } 
+  else 
+  {
     Serial.println("INA219 Sensoru Basariyla Baglandi.");
   }
 
@@ -135,12 +136,10 @@ void loop() {
   int ldrDegeri = analogRead(PIN_LDR);
 
   if (otomatikMod) {
-    // Eşik Değeri: Kendi odana göre 1000 sayısını değiştir.
-    // LDR < 1000 ise (Karanlık) -> Beyaz Işık Yak
     if (ldrDegeri < 900) { 
-      renkAyarla(200, 200, 200); // Orta parlaklıkta Beyaz
+      renkAyarla(200, 200, 200); 
     } else {
-      renkAyarla(0, 0, 0);       // Gündüzse Söndür
+      renkAyarla(0, 0, 0);      
     }
   }
 
