@@ -36,7 +36,7 @@ Sistemin farklı renk modlarının bir oda üzerindeki etkisi, ölçekli fizikse
         ESP32 ile birlikte Bluetooth terminal üzerinden kontrol edilebilen sistem <b>13 farklı moda</b> sahiptir.
       </p>
       <p>
-        Modlar: Otomatik mod, Kırmızı, Yeşil, Mavi, Mor, Cyan, Turuncu, Sarı, Pembe, Kahverengi, Gün ışığı, Beyaz ve Kapat.
+        Modlar: Otomatik, Kırmızı, Yeşil, Mavi, Mor, Cyan, Turuncu, Sarı, Pembe, Kahverengi, Gün ışığı, Beyaz ve Kapat.
       </p>
     </td>
   </tr>
